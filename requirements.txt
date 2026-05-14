@@ -1,5 +1,5 @@
-ultralytics
 flask
-requests
+ultralytics
 opencv-python-headless
-gunicorn
+requests
+numpy
